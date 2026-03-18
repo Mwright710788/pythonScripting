@@ -43,6 +43,9 @@
         <mxCell id="f2iZ71QQHSd5SJTenB2_-3" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="is point within&lt;div&gt;Oklahoma&lt;/div&gt;&lt;div&gt;geojson?&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="80" x="65" y="540" as="geometry" />
         </mxCell>
+        <mxCell id="f2iZ71QQHSd5SJTenB2_-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="create&amp;nbsp;&lt;i&gt;withinOklahoma&lt;/i&gt;&lt;div&gt;column in CSUoccurence.csv&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="490" y="370" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
