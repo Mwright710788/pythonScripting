@@ -28,8 +28,20 @@
         <mxCell id="mv5gH8MdkmgmsuV4fE6p-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="import geoPandas" vertex="1">
           <mxGeometry height="60" width="120" x="45" y="200" as="geometry" />
         </mxCell>
+        <mxCell id="f2iZ71QQHSd5SJTenB2_-2" edge="1" parent="1" source="mv5gH8MdkmgmsuV4fE6p-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="f2iZ71QQHSd5SJTenB2_-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mv5gH8MdkmgmsuV4fE6p-9" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="&lt;div&gt;variable =&amp;nbsp;&lt;/div&gt;Oklahoma.geojson" vertex="1">
           <mxGeometry height="70" width="110" x="50" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="f2iZ71QQHSd5SJTenB2_-4" edge="1" parent="1" source="f2iZ71QQHSd5SJTenB2_-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="f2iZ71QQHSd5SJTenB2_-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f2iZ71QQHSd5SJTenB2_-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="iterate through&lt;div&gt;CSUoccurenc.csv&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="45" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="f2iZ71QQHSd5SJTenB2_-3" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="is point within&lt;div&gt;Oklahoma&lt;/div&gt;&lt;div&gt;geojson?&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="65" y="540" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
